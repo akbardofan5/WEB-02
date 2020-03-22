@@ -15,7 +15,7 @@
 		$namab = "Piccard";
 		$nilai1 = 25;
 		$nilai2 = 50;
-		$hasil = $nilai1*nilai2;
+		$hasil = $nilai1*$nilai2;
 		$a = 2;
 		$b = 3;
 		$hsl = pow($a,$b);
