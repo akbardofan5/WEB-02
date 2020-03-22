@@ -20,7 +20,7 @@
 		$b = 3;
 		$hsl = pow($a,$b);
 	?>
-	<b>Ini adalah Kapal Federasi Planet USS Enterprise.<br>
+	<b>Ini adalah Kapal Federasi Planet USS Enterprise.<br> 
 	<?php
 		echo "Saya $namab, $namad $namat $namab, Kapten Kapal.</b><br>";
 		echo "$nilai x $nilai2 = $hasil<br>";
